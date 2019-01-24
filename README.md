@@ -8,9 +8,7 @@
 
 #### 2019-1-22
 
-[nodejs学习之旅]()
-
-  - [mysql]()
+  - [nodejs学习之旅]()
   - [Buffer]()
   - [path]()
   - [fs]()
