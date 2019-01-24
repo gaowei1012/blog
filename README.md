@@ -2,7 +2,7 @@
 本博客是我在工作学习中所遇到问道问题的总结，节约大家采坑的时间.
 
 #### 2019-1-24
-
+  - [nodj上传文件获取上传文件进度](https://github.com/gmw-zjw/blog/issues/4)
   - [mysql]()
   - [koa2+mysql搭建的个人博客](https://github.com/gmw-zjw/eary-blog)-[教程](https://github.com/gmw-zjw/blog/issues/3)
 
@@ -12,7 +12,6 @@
   - [Buffer]()
   - [path]()
   - [fs]()
-  - [Multer]()
 
 
 
