@@ -8,7 +8,7 @@
   - [Buffer]()
   - [path]()
   - [fs]()
-  - [koa2+mysql搭建的个人博客](https://github.com/gmw-zjw/blog/issues/3)
+  - [koa2+mysql搭建的个人博客](https://github.com/gmw-zjw/eary-blog)-[教程](https://github.com/gmw-zjw/blog/issues/3)
 
 
 
