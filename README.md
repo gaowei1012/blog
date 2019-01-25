@@ -1,6 +1,10 @@
 ### blog
 本博客是我在工作学习中所遇到问道问题的总结，节约大家采坑的时间.
 
+#### 2019-1-25
+
+  - [express body-paeser中间件]()
+
 #### 2019-1-24
   - [nodejs 上传文件获取上传文件进度](https://github.com/gmw-zjw/blog/issues/4)
   - [mysql]()
