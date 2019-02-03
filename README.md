@@ -10,7 +10,7 @@
   - [express body-paeser中间件](https://github.com/gmw-zjw/blog/issues/5)
   - [express express-session 分析](https://github.com/gmw-zjw/blog/issues/6)
   - [nodejs 上传文件获取上传文件进度](https://github.com/gmw-zjw/blog/issues/4)
-  - [nodejs 后端生成图片验证码]()
+  - [nodejs 后端生成图像验证码]()
   - [mysql]()
   - [koa2+mysql搭建的个人博客](https://github.com/gmw-zjw/eary-blog)-[教程](https://github.com/gmw-zjw/blog/issues/3)
   - [nodejs学习之旅]()
