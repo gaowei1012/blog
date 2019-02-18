@@ -33,4 +33,4 @@
 
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
- - [Promise实现]()
+ - [Promise实现](https://github.com/gmw-zjw/blog/issues/9)
