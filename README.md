@@ -30,4 +30,5 @@
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
  - [Promise实现](https://github.com/gmw-zjw/blog/issues/9)
- - [javascript函数防抖]()
+ - [javascript函数防抖](https://github.com/gmw-zjw/blog/issues/10)
+ - [javascript函数节流]()
