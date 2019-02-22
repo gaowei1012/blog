@@ -25,6 +25,7 @@
  -[blog](https://github.com/gmw-zjw/blog-pc.git)
   
  - [纯手工打造react脚手架]()
+ - [React Loadable]()
 
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
