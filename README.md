@@ -3,7 +3,7 @@
 
 #### Linx
   - [centos docker 指南]()
-  - [Mac 下使用dd命令制作Centos USB启动盘]()
+  - [Mac 下使用dd命令制作Centos USB启动盘](https://github.com/gmw-zjw/blog/issues/12)
   
   
 
