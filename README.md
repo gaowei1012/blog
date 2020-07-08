@@ -32,7 +32,7 @@
  - [TypeScript使用]()
  
  #### reactnative
- - [自定义react-native]顶部scrollview tab 切换菜单
+ - [自定义react-native顶部scrollview tab 切换菜单](https://github.com/gaowei1012/blog/issues/14)
 
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
