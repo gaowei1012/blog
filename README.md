@@ -33,7 +33,7 @@
  
  #### reactnative
  - [自定义react-native顶部scrollview tab 切换菜单](https://github.com/gaowei1012/blog/issues/14)
- - [react native 中使用美洽客服]
+ - [react native 中使用美洽客服](https://github.com/gaowei1012/blog/issues/15)
 
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
