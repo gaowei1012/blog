@@ -40,3 +40,6 @@
  - [Promise实现](https://github.com/gmw-zjw/blog/issues/9)
  - [javascript函数防抖](https://github.com/gmw-zjw/blog/issues/10)
  - [javascript函数节流](https://github.com/gmw-zjw/blog/issues/11)
+ 
+ #### mysql
+  - [node.js中mysql数据化初始化、表、查询]()
