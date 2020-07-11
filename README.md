@@ -42,4 +42,4 @@
  - [javascript函数节流](https://github.com/gmw-zjw/blog/issues/11)
  
  #### mysql
-  - [node.js中mysql数据化初始化、表、查询]()
+  - [node.js中mysql数据化初始化、表、查询](https://github.com/gaowei1012/blog/issues/16)
