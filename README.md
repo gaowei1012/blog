@@ -15,7 +15,7 @@
   - [nodejs 上传文件获取上传文件进度](https://github.com/gmw-zjw/blog/issues/4)
   - [nodejs 后端生成图像验证码]()
   - [koa2+mysql搭建的个人博客](https://github.com/gmw-zjw/eary-blog)-[教程](https://github.com/gmw-zjw/blog/issues/3)
-  - [koa2上传图片到阿里云OSS]()
+  - [koa2上传图片到阿里云OSS](https://github.com/gaowei1012/blog/issues/17)
   
 
 
