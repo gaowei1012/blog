@@ -28,9 +28,7 @@
  - [React的setState之后都做了那些事](https://zristart.github.io/React%E7%9A%84setState%E4%B9%8B%E5%90%8E%E9%83%BD%E5%81%9A%E4%BA%86%E9%82%A3%E4%BA%9B%E4%BA%8B.html#more)
  -[blog](https://github.com/gmw-zjw/blog-pc.git)
   
- - [纯手工打造react脚手架]()
- - [React Loadable]()
- - [TypeScript使用]()
+- [react excle 工作表导出]()
  
  #### reactnative
  - [自定义react-native顶部scrollview tab 切换菜单](https://github.com/gaowei1012/blog/issues/14)
