@@ -35,6 +35,7 @@
  - [react native 中使用美洽客服](https://github.com/gaowei1012/blog/issues/15)
  - [react native 自定义进度条](https://github.com/gaowei1012/blog/issues/18)
  - [react native TextInput 封装](https://github.com/gaowei1012/blog/issues/19)
+ - [react native 图片上传]()
  
 
 #### javascript
