@@ -56,7 +56,7 @@
  #### redis
  
  #### typeScript
- - [在react工程中使用typescript(-)项目初始化]()
+ - [在react工程中使用typescript(-), 项目初始化]()
 
  #### android
   
