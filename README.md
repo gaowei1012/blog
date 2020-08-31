@@ -57,7 +57,7 @@
  
  #### typeScript
  - [在react工程中使用typescript(一), 项目初始化](https://github.com/gaowei1012/blog/issues/23)
- - [在react工程中使用typescript(二), 添加请求 axios 、路由、redux]()
+ - [在react工程中使用typescript(二), 添加请求 axios 、路由、redux](https://github.com/gaowei1012/blog/issues/24)
 
  #### android
   
