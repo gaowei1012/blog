@@ -40,6 +40,7 @@
  - [react native 自定义图表](https://github.com/gaowei1012/blog/issues/21)
  - [react native 相机扫码实现](https://github.com/gaowei1012/blog/issues/26)
  - [react native 定位](https://github.com/gaowei1012/blog/issues/27)
+ - [react-native-picker android使用报错](https://github.com/gaowei1012/blog/issues/29)
  
 
 #### javascript
@@ -64,7 +65,7 @@
  - [react hooks 使用 ts](https://github.com/gaowei1012/blog/issues/25)
 
  #### android
-  - [react native android 编译报错]（）
+  - [react native android 编译报错]()
   
  #### flutter
  
