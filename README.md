@@ -39,7 +39,7 @@
  - [react native 图片上传]()
  - [react native 自定义图表](https://github.com/gaowei1012/blog/issues/21)
  - [react native 相机扫码实现](https://github.com/gaowei1012/blog/issues/26)
- - [react native 定位]()
+ - [react native 定位](https://github.com/gaowei1012/blog/issues/27)
  
 
 #### javascript
