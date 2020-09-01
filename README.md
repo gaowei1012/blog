@@ -17,6 +17,7 @@
   - [koa2+mysql搭建的个人博客](https://github.com/gmw-zjw/eary-blog)-[教程](https://github.com/gmw-zjw/blog/issues/3)
   - [koa2上传图片到阿里云OSS](https://github.com/gaowei1012/blog/issues/17)
   
+  
 
 
 
@@ -37,6 +38,7 @@
  - [react native TextInput 封装](https://github.com/gaowei1012/blog/issues/19)
  - [react native 图片上传]()
  - [react native 自定义图表](https://github.com/gaowei1012/blog/issues/21)
+ - [react native 相机扫码实现]()
  
 
 #### javascript
