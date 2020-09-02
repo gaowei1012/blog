@@ -41,6 +41,7 @@
  - [react native 相机扫码实现](https://github.com/gaowei1012/blog/issues/26)
  - [react native 定位](https://github.com/gaowei1012/blog/issues/27)
  - [react-native-picker android使用报错](https://github.com/gaowei1012/blog/issues/29)
+ - [react native 打包遇到的坑（Android）]()
  
 
 #### javascript
