@@ -42,7 +42,7 @@
  - [react native 定位](https://github.com/gaowei1012/blog/issues/27)
  - [react-native-picker android使用报错](https://github.com/gaowei1012/blog/issues/29)
  - [react native 打包遇到的坑（Android）](https://github.com/gaowei1012/blog/issues/30)
- - [react native 真机ios调试遇到的坑]()
+ - [react native 真机ios调试遇到的坑](https://github.com/gaowei1012/blog/issues/31)
  
 
 #### javascript
