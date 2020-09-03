@@ -72,7 +72,7 @@
  #### flutter
  
  #### nginx
-  - [mac 配置 nginx]()
+  - [mac 配置 nginx](https://github.com/gaowei1012/blog/issues/32)
  
  
  
