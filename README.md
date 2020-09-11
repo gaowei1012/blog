@@ -45,6 +45,7 @@
  - [react native 真机ios调试遇到的坑](https://github.com/gaowei1012/blog/issues/31)
  - [react native 适配（1）字体](https://github.com/gaowei1012/blog/issues/33)
  - [react native 地址选择器](https://github.com/gaowei1012/blog/issues/35)
+ - [react native 动画]()
  
 
 #### javascript
