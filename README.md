@@ -46,7 +46,7 @@
  - [react native 适配（1）字体](https://github.com/gaowei1012/blog/issues/33)
  - [react native 地址选择器](https://github.com/gaowei1012/blog/issues/35)
  - [react native 动画](https://github.com/gaowei1012/blog/issues/36)
- - [react native typescript]()
+ - [react native typescript](https://github.com/gaowei1012/blog/issues/37)
  
 
 #### javascript
