@@ -45,7 +45,7 @@
  - [react native 地址选择器](https://github.com/gaowei1012/blog/issues/35)
  - [react native 动画](https://github.com/gaowei1012/blog/issues/36)
  - [react native typescript](https://github.com/gaowei1012/blog/issues/37)
- - [react native picker打包时报错]()
+ - [react native picker打包时报错](https://github.com/gaowei1012/blog/issues/41)
 
  
 
