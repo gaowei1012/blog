@@ -2,7 +2,6 @@
 本博客是我在工作学习中所遇到问道问题的总结，节约大家采坑的时间.
 
 #### Linx
-  - [centos docker 指南]()
   - [Mac 下使用dd命令制作Centos USB启动盘](https://github.com/gmw-zjw/blog/issues/12)
   
   
