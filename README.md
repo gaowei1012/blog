@@ -47,6 +47,7 @@
  - [react native 动画](https://github.com/gaowei1012/blog/issues/36)
  - [react native typescript](https://github.com/gaowei1012/blog/issues/37)
  - [react native picker打包时报错](https://github.com/gaowei1012/blog/issues/41)
+ - [react native 使用react-navigation做路由导航时，页面跨页面事件监听]()
 
  
 
