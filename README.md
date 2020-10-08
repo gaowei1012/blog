@@ -4,7 +4,6 @@
 #### Linx
   - [Mac 下使用dd命令制作Centos USB启动盘](https://github.com/gmw-zjw/blog/issues/12)
   
-  
 
 #### nodejs
 
