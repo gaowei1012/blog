@@ -87,6 +87,7 @@
   - [Swiper 组件](https://github.com/gaowei1012/blog/issues/49)
   - [输入框表单](https://github.com/gaowei1012/blog/issues/50)
   - [Padding SizeBox 组件](https://github.com/gaowei1012/blog/issues/51)
+  - [DecoratedBox装饰器]()
  
  #### nginx
   - [mac 配置 nginx](https://github.com/gaowei1012/blog/issues/32)
