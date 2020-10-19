@@ -52,7 +52,6 @@
  - [react native picker打包时报错](https://github.com/gaowei1012/blog/issues/41)
  - [react native 使用react-navigation做路由导航时，页面跨页面事件监听](https://github.com/gaowei1012/blog/issues/43)
 
- 
 
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
@@ -68,10 +67,6 @@
   
  #### koa
  - [项目工程化](https://github.com/gaowei1012/blog/issues/22)
- 
- #### express
- 
- #### redis
  
  #### typeScript
  - [react工程中使用typescript(一), 项目初始化](https://github.com/gaowei1012/blog/issues/23)
@@ -98,6 +93,7 @@
   - [前端坐标系 WGS48]( )
   - [全国城市三级联动json数据](https://github.com/gaowei1012/blog/issues/34)
   - [古老的andularjs分页](https://github.com/gaowei1012/blog/issues/40)
+ 
  
  
  
