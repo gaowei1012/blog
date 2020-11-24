@@ -91,6 +91,7 @@
  
  #### nginx
   - [mac 配置 nginx](https://github.com/gaowei1012/blog/issues/32)
+  - [Centos7 nginx 配置详情]()
   
  #### 前端
   - [前端坐标系 WGS48]( )
