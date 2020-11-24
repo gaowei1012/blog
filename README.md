@@ -99,7 +99,7 @@
 
  #### Python
   - [hello wrold]()
-  - [Python 第一个爬虫小程序]()
+  - [Python 第一个爬虫小程序](https://github.com/gaowei1012/blog/issues/58)
  
  
  
