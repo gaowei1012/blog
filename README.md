@@ -1,4 +1,4 @@
-### blog
+### 执念的blog_@
 本博客是我在工作学习中所遇到问道问题的总结，节约大家采坑的时间.
 
 #### Linx
@@ -97,6 +97,7 @@
   - [前端坐标系 WGS48]( )
   - [全国城市三级联动json数据](https://github.com/gaowei1012/blog/issues/34)
   - [古老的andularjs分页](https://github.com/gaowei1012/blog/issues/40)
+  - [canvas绘制雪花下落效果]()
 
  #### Python
   - [hello wrold]()
