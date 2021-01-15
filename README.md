@@ -72,7 +72,7 @@
  - [javascript函数节流](https://github.com/gmw-zjw/blog/issues/11)
  - [html5 table 原生js实现分页](https://github.com/gaowei1012/blog/issues/38)
  - [常用js工具方法](https://github.com/gaowei1012/blog/issues/39)
- - [数组合并处理方法]()
+ - [数组合并处理方法](https://github.com/gaowei1012/blog/issues/68)
  
  
  #### mysql
