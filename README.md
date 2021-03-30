@@ -66,6 +66,7 @@
  - [react native picker打包时报错](https://github.com/gaowei1012/blog/issues/41)
  - [react native 使用react-navigation做路由导航时，页面跨页面事件监听](https://github.com/gaowei1012/blog/issues/43)
  - [react native 视频直播解决方案](https://github.com/gaowei1012/blog/issues/69)
+ - [react native 适配状态栏方案]()
 
 
 #### javascript
