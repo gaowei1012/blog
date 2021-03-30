@@ -76,6 +76,7 @@
  - [html5 table 原生js实现分页](https://github.com/gaowei1012/blog/issues/38)
  - [常用js工具方法](https://github.com/gaowei1012/blog/issues/39)
  - [数组合并处理方法](https://github.com/gaowei1012/blog/issues/68)
+ - [使用JavaScript闭包试下缓存数据]()
  
  
  #### mysql
