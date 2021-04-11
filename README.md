@@ -79,7 +79,7 @@
  - [数组合并处理方法](https://github.com/gaowei1012/blog/issues/68)
  - [使用JavaScript闭包试下缓存数据](https://github.com/gaowei1012/blog/issues/71)
  - [js 数组求和](https://github.com/gaowei1012/blog/issues/73)
- - [js typeof]()
+ - [js typeof 与 Object.prototype.toString.call 比较](https://github.com/gaowei1012/blog/issues/74)
  
  
  #### mysql
