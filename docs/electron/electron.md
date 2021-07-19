@@ -1,7 +1,7 @@
 <!--
  * @Author: 执念
  * @Date: 2021-07-19 09:55:06
- * @LastEditTime: 2021-07-19 10:23:15
+ * @LastEditTime: 2021-07-19 10:26:39
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /blog/docs/electron.md
@@ -11,15 +11,15 @@
 
 一、 **主进程**
 
- - 在 electron 中主进程通过读取 `package.json` 中的 `main`字段，加载 `main.js` 执行主进程加载，一个`electron`中只有有个主进程，多个渲染进程。
+  在 electron 中主进程通过读取 `package.json` 中的 `main`字段，加载 `main.js` 执行主进程加载，一个`electron`中只有有个主进程，多个渲染进程。
 
 二、**渲染进程**
 
-  - 渲染进程可以通俗的理解为多个页面的渲染，每一个页面就是一个独立的 `renderer` 进程，且每一个渲染进程之间的同时与之隔绝的。避免了一个页面崩溃导致整个应用崩溃无法使用。
+   渲染进程可以通俗的理解为多个页面的渲染，每一个页面就是一个独立的 `renderer` 进程，且每一个渲染进程之间的同时与之隔绝的。避免了一个页面崩溃导致整个应用崩溃无法使用。
 
 三、**进程通信**
 
-  - 在 `electron` 的渲染进程中，像 `menu, dialog` 模块只能在主进程中使用，要想在渲染进程中使用，必须进行主、渲染进程之间的通讯。
+   在 `electron` 的渲染进程中，像 `menu, dialog` 模块只能在主进程中使用，要想在渲染进程中使用，必须进行主、渲染进程之间的通讯。
 
   ###### IpcMain 与 ipcRenderer
 
