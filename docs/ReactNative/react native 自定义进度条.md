@@ -1,7 +1,7 @@
 <!--
  * @Author: 执念
  * @Date: 2021-07-19 10:53:34
- * @LastEditTime: 2021-07-19 10:56:46
+ * @LastEditTime: 2021-07-19 11:02:19
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /blog/docs/ReactNative/react native 自定义进度条.md
@@ -39,7 +39,7 @@ let AnimatedCircle = Animated.createAnimatedComponent(Circle)
 class Progress extends React.PureComponent {
     constructor(props) {
         super(props)
-        this.startAnimstion = this.startAnimstion.bind(this)
+        this.startAnimation = this.startAnimation.bind(this)
         this.state = {
             lineFillAnimation: new Animated.Value(0)
         }
@@ -56,9 +56,9 @@ class Progress extends React.PureComponent {
     }
 
     componentDidMount() {
-        this.startAnimstion()
+        this.startAnimation()
     }
-    startAnimstion() {
+    startAnimation() {
         this.state.lineFillAnimation.setValue(0)
 
         Animated.spring(
