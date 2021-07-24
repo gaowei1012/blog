@@ -1,4 +1,4 @@
-### 总结实践中的案例，会走的更远!
+### 总结实践中的案例，分享你我他
 
 #### Linux
   - [Mac 下使用dd命令制作Centos USB启动盘](https://github.com/gmw-zjw/blog/issues/12)
