@@ -111,3 +111,21 @@
   // add(1)(2)(3)
   // => 6 
 ```
+
+- 模拟 new 操作
+
+```js
+
+  function newSty(ctor, ...args) {
+    if (typeof ctor !== 'function') {
+      throw new TypeError('Type Error')
+    }
+    const obj = Object.create(ctor.propotype)
+    const res = ctor.apply(obj, args)
+
+    const isObject = typeof res === 'object' && res !== ''
+    const isFunction = typeof res === 'function'
+    return isObject || isFunction ? res : obj 
+  }
+
+```
