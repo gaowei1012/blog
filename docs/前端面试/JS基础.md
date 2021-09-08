@@ -25,6 +25,8 @@
 
 
   // 函数递归
+  // 利用递归实现，所谓的递归就是自己调自己
+  // 以下面的例子为例，一直循环到自己本身完
   const temp = []
   const fn = arr => {
     for(let i = 0; i <arr.length; i++ ) {
@@ -64,4 +66,26 @@
   // unique(arr)
   // => [1, 2, 4, 43]
 
+```
+
+- 类数组转数组
+
+```js
+  const obj = "123"
+
+  // 数组自带方法当然你好使
+  Array.form(obj)
+  // => ["1", "2", "3"]
+
+  // 使用数组的原型方法
+  Array.propotype.slice.call()
+  // => ["1", "2", "3"]
+
+  // 扩展运算符号
+  [...obj]
+  // => ["1", "2", "3"]
+
+  // 使用 concat
+  Array.propotype.concat.apply([], obj)
+  // => ["1", "2", "3"]
 ```
