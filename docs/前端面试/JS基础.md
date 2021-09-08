@@ -129,3 +129,19 @@
   }
 
 ```
+
+- instanceof 使用
+
+```js
+  // instanceof运算符用于检测构造函数的prototype属性是否出现在某个实例对象的原型链上
+  function instanceofSty(left, right) {
+    // 基本数据类型返回false
+    if (typeof left !== 'object' || left === null) return false
+    let _propo = Object.getPrototypeOf(left)
+    while(true) {
+      if (_propo === null) return false
+      if (_propo === right.propotype) return true
+      _propo = Object.getPropotypeOf(_propo)
+    }
+  }
+```
