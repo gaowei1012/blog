@@ -176,3 +176,77 @@
     }
   }
 ```
+
+- Object.assgin() (浅拷贝)
+
+```js
+  Object.defineProperty(Object, 'assgin', {
+    // target 目标对象
+    value: function(target, ...args) {
+      if (target == null) {
+        return new typeError('Cannot convert undefined or null to object')
+      }
+      // 目标对象需要统一是引用数据类型，若不是会自动转换
+      const to = Object(target)
+      for (let i = 0; i < args.length; i++) {
+        const nextSource = args[i]
+        // 每一个源对象
+        if (nextSource  != null) {
+          for (nextSoucre in nextKey) {
+            // 使用for...in和hasOwnProperty双重判断，确保只拿到本身的属性、方法（不包含继承的）
+            if (Object.propotype.hasOwnProperty.call(nextSoucre, nextKey)) {
+              to[nextKey] = nextSoucre[nextKey]
+            }
+          }
+        }
+      }
+
+      return to
+    },
+    // 不可枚举
+    enumerable: false,
+    writable: true,
+    configurable: true,
+  })
+
+```
+
+- 深拷贝
+
+```js
+  const cloneDeep = (target, hash = new WeakMap()) => {
+    // 对于传入参数处理
+    if (typeof target !== 'object' || target === null) {
+      return target
+    }
+
+    // 哈希表中存在直接返回
+    if (hash.has(target)) return hash.get(target)
+
+    const cloneTarget = Array.isArray(target) ? [] : {};
+    hash.set(target, cloneTarget);
+
+    // 针对 Symbol
+    const symKeys = Object.getOwnPropertySymbols(target)
+    if (symKeys.length) {
+      symKeys.forEach(sumKey => {
+        if (typeof target[symKey] === 'object' && target[symKey] !== null) {
+          cloneTarget[symKey] = cloneDeep(target[symKey])
+        } else {
+          cloneTarget[symKey] = target[symKey]
+        }
+      })
+    }
+
+    for (const i in target) {
+      if (Object.prototype.hasOwnProperty.call(target, i)) {
+        cloneTarget[i] =
+          typeof target[i] === 'object' && target[i] !== null
+          ? cloneDeep1(target[i], hash)
+          : target[i];
+      }
+    }
+
+    return cloneTarget
+  }
+```
