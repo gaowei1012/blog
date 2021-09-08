@@ -89,3 +89,25 @@
   Array.propotype.concat.apply([], obj)
   // => ["1", "2", "3"]
 ```
+
+- 函数珂里化
+
+```js
+ // add(1)(2)(3)(4)=10; 、 add(1)(1,2,3)(2)=9;
+
+ function add() {
+   const _args = [...arguments]
+   function fn() {
+     _args.push(...arguments)
+     return fn
+   }
+
+   fn.toString() = function() {
+     return _args.reduce((sum, cur) => sum + cur)
+   }
+   return fn
+ }
+
+  // add(1)(2)(3)
+  // => 6 
+```
