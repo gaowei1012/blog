@@ -436,3 +436,42 @@
 
   // 使用 Object.is 来进行相等判断时，一般情况下和三等号的判断相同，它处理了一些特殊的情况，比如 -0 和 +0 不再相等，两个 NaN 是相等的。
 ```
+
+- 什么是虚拟DOM，又是如何转为真实DOM的？
+```js
+
+  // 虚拟DOM可以理解为一个JS对象， 在SPA中，我们操作是对虚拟DOM进行操作，进而转为为真实DOM
+
+  function render(vnode, container) {
+    container.appendChild(_render(vnode))
+  }
+
+  // render DOM
+  // 生成真是DOM节点
+  function _render(vnode) {
+    // 如果是数字类型转化为字符串
+    if (typeof vnode === 'number') {
+      vnode = String(vnode)
+    }
+
+    // 如果是字符串则直接创建文本节点
+    if (typeof vnode === 'string') {
+      return document.createTextNode(vnode)
+    }
+
+    // 普通DOM
+    const dom = document.createElement(vnode.tag)
+
+    if (vnode.attrs) {
+      // 遍历状态
+      Object.keys(vnode.attrs).map(key => {
+        const value = vnode.attrs[key]
+        dom.setAttribute(key, value)
+      })
+    }
+
+    // 子数组进行递归操作
+    vnode.children.forEach(child => render(child, dom))
+    return dom
+  }
+```
