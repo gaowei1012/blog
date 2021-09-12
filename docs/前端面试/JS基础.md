@@ -193,7 +193,7 @@
       for (let i = 0; i < args.length; i++) {
         const nextSource = args[i]
         // 每一个源对象
-        if (nextSource  != null) {
+        if (nextSource != null) {
           for (nextSoucre in nextKey) {
             // 使用for...in和hasOwnProperty双重判断，确保只拿到本身的属性、方法（不包含继承的）
             if (Object.propotype.hasOwnProperty.call(nextSoucre, nextKey)) {
