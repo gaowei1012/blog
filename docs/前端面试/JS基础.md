@@ -184,17 +184,17 @@
 ```js
   Object.defineProperty(Object, 'assgin', {
     // target 目标对象
-    value: function(target, ...args) {
+    value: function(target) {
       if (target == null) {
         return new typeError('Cannot convert undefined or null to object')
       }
       // 目标对象需要统一是引用数据类型，若不是会自动转换
-      const to = Object(target)
-      for (let i = 0; i < args.length; i++) {
-        const nextSource = args[i]
+      let to = Object(target)
+      for (let index = 0; index < arguments.length; index++) {
+        let nextSource = arguments[index]
         // 每一个源对象
         if (nextSource != null) {
-          for (nextSoucre in nextKey) {
+          for (let nextKey in nextSoucre) {
             // 使用for...in和hasOwnProperty双重判断，确保只拿到本身的属性、方法（不包含继承的）
             if (Object.propotype.hasOwnProperty.call(nextSoucre, nextKey)) {
               to[nextKey] = nextSoucre[nextKey]
