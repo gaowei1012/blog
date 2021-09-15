@@ -19,13 +19,13 @@
 
   // 通过原型（proptype）创建新的方法属性
 
-  function Create() {
+  function AddWrapper() {
     return this.a + this.b
   }
 
   // propotype 
-  Create.propotype.findOnes = function(soucre, string) {
-    // TODO
+  AddWrapper.propotype.add = function(a, b) {
+    return a + b
   }
 
   // 上面例子在方法上的原型上添加了一个 findOnes 方法，进而 Create 函数的 propotype 中就会增加一个 findOnes 方法，用于我们处理事务
