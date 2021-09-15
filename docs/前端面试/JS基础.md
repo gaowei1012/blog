@@ -194,8 +194,10 @@
         let nextSource = arguments[index]
         // 每一个源对象
         if (nextSource != null) {
+          // Skip over if undefined or null
           for (let nextKey in nextSoucre) {
             // 使用for...in和hasOwnProperty双重判断，确保只拿到本身的属性、方法（不包含继承的）
+            // Avoid bugs when hasOwnProperty is shadowed
             if (Object.propotype.hasOwnProperty.call(nextSoucre, nextKey)) {
               to[nextKey] = nextSoucre[nextKey]
             }
