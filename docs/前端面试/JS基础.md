@@ -182,36 +182,37 @@
 - Object.assgin() (浅拷贝)
 
 ```js
-  Object.defineProperty(Object, 'assgin', {
-    // target 目标对象
-    value: function(target) {
-      if (target == null) {
-        return new typeError('Cannot convert undefined or null to object')
-      }
-      // 目标对象需要统一是引用数据类型，若不是会自动转换
-      let to = Object(target)
-      for (let index = 0; index < arguments.length; index++) {
-        let nextSource = arguments[index]
-        // 每一个源对象
-        if (nextSource != null) {
-          // Skip over if undefined or null
-          for (let nextKey in nextSoucre) {
-            // 使用for...in和hasOwnProperty双重判断，确保只拿到本身的属性、方法（不包含继承的）
-            // Avoid bugs when hasOwnProperty is shadowed
-            if (Object.propotype.hasOwnProperty.call(nextSoucre, nextKey)) {
-              to[nextKey] = nextSoucre[nextKey]
+  if (typeof Object.assgin !== 'function') {
+    Object.defineProperty(Object, 'assgin', {
+      // target 目标对象
+      value: function(target) {
+        if (target == null) {
+          return new typeError('Cannot convert undefined or null to object')
+        }
+        // 目标对象需要统一是引用数据类型，若不是会自动转换
+        let to = Object(target)
+        for (let index = 0; index < arguments.length; index++) {
+          let nextSource = arguments[index]
+          // 每一个源对象
+          if (nextSource != null) {
+            // Skip over if undefined or null
+            for (let nextKey in nextSoucre) {
+              // 使用for...in和hasOwnProperty双重判断，确保只拿到本身的属性、方法（不包含继承的）
+              // Avoid bugs when hasOwnProperty is shadowed
+              if (Object.propotype.hasOwnProperty.call(nextSoucre, nextKey)) {
+                to[nextKey] = nextSoucre[nextKey]
+              }
             }
           }
         }
-      }
-
-      return to
-    },
-    // 不可枚举
-    enumerable: false,
-    writable: true,
-    configurable: true,
-  })
+        return to
+      },
+      // 不可枚举
+      enumerable: false,
+      writable: true,
+      configurable: true,
+    })
+  }
 
 ```
 
