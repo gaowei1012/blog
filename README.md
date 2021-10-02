@@ -72,7 +72,6 @@
  - [js 数组求和](https://github.com/gaowei1012/blog/issues/73)
  - [js typeof() 与 Object.prototype.toString.call() 比较](https://github.com/gaowei1012/blog/issues/74)
  - [js this 指向](https://github.com/gaowei1012/blog/issues/75)
- - [js Object对象溯源]()
  
  
  #### mysql
