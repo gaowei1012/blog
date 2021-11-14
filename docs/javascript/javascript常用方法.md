@@ -69,3 +69,12 @@ const last = (arr: any) => {
     return arr.slice(0, arr.length-1)
 }
 ```
+
+- 正则匹配一个字符串
+```ts
+  /*
+    targetValue: 目标数组
+    target: 需要匹配的字符串
+  */
+  const test = new RegExp(targetValue,'i').test(target)
+```
