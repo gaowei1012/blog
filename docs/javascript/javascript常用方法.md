@@ -78,3 +78,10 @@ const last = (arr: any) => {
   */
   const test = new RegExp(targetValue,'i').test(target)
 ```
+
+- 过滤一个数组中的匹配的值
+```ts
+  const _temp = _.filter([arr], item => new RegExp(targetValue,'i').test(target))
+  console.log(_temp)
+  // [...]
+```
