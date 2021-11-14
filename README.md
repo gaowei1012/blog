@@ -71,7 +71,7 @@
  - [js 数组求和](https://github.com/gaowei1012/blog/issues/73)
  - [js typeof() 与 Object.prototype.toString.call() 比较](https://github.com/gaowei1012/blog/issues/74)
  - [js this 指向](https://github.com/gaowei1012/blog/issues/75)
- - [javascript常用方法]()
+ - [javascript常用方法](https://github.com/gaowei1012/blog/blob/master/docs/javascript/javascript%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
  
  
  #### mysql
