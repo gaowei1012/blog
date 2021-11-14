@@ -1,5 +1,6 @@
 ### 总结实践中的案例，分享你我他
 
+
 #### Linux
   - [Mac 下使用dd命令制作Centos USB启动盘](https://github.com/gmw-zjw/blog/issues/12)
 #### git 
@@ -14,8 +15,6 @@
   - [nodejs 后端生成图像验证码]()
   - [koa2+mysql搭建的个人博客](https://github.com/gmw-zjw/eary-blog)-[教程](https://github.com/gmw-zjw/blog/issues/3)
   - [koa2上传图片到阿里云OSS](https://github.com/gaowei1012/blog/issues/17)
-  
- 
 #### mobx
 - [react项目集成使用mobx](https://github.com/gaowei1012/blog/issues/44)
 
@@ -60,7 +59,6 @@
  - [react native 视频直播解决方案](https://github.com/gaowei1012/blog/issues/69)
  - [react native 适配状态栏方案](https://github.com/gaowei1012/blog/issues/72)
 
-
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
  - [Promise实现](https://github.com/gmw-zjw/blog/issues/9)
@@ -73,7 +71,7 @@
  - [js 数组求和](https://github.com/gaowei1012/blog/issues/73)
  - [js typeof() 与 Object.prototype.toString.call() 比较](https://github.com/gaowei1012/blog/issues/74)
  - [js this 指向](https://github.com/gaowei1012/blog/issues/75)
- - [js Object对象溯源]()
+ - [javascript常用方法]()
  
  
  #### mysql
@@ -127,4 +125,4 @@
   - [基础 Widget](https://github.com/gaowei1012/blog/issues/78)
 
  #### Eletron
-  - [eletron 主进程与渲染进程]()
+  - [eletron 主进程与渲染进程](https://github.com/gaowei1012/blog/blob/master/docs/electron/electron.md)
