@@ -1,5 +1,8 @@
 ### 总结实践中的案例，分享你我他
 
+### 算法
+  - [二叉查找树(BST)]()
+
 
 #### Linux
   - [Mac 下使用dd命令制作Centos USB启动盘](https://github.com/gmw-zjw/blog/issues/12)
