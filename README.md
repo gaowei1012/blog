@@ -59,7 +59,7 @@
  - [react native 使用react-navigation做路由导航时，页面跨页面事件监听](https://github.com/gaowei1012/blog/issues/43)
  - [react native 视频直播解决方案](https://github.com/gaowei1012/blog/issues/69)
  - [react native 适配状态栏方案](https://github.com/gaowei1012/blog/issues/72)
- - [react native Canvas]()
+ - [react native Canvas ]()
 
 #### javascript
  - [javascript中Event loop事件环机制](https://github.com/gmw-zjw/blog/issues/2)
