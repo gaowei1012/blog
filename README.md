@@ -78,7 +78,7 @@
  - [js this 指向](https://github.com/gaowei1012/blog/issues/75)
  - [javascript常用方法](https://github.com/gaowei1012/blog/blob/master/docs/javascript/javascript%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
  - [js保存Cookies](https://github.com/gaowei1012/blog/issues/81)
- - [javascript日常开发中所需要的函数]()
+ - [javascript日常开发中所需要的函数](https://github.com/gaowei1012/blog/wiki/javascript%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91%E4%B8%AD%E6%89%80%E9%9C%80%E8%A6%81%E7%9A%84%E5%87%BD%E6%95%B0)
  
  #### mysql
   - [node.js中mysql数据化初始化、表、查询](https://github.com/gaowei1012/blog/issues/16)
