@@ -23,7 +23,7 @@
 - [react项目集成使用mobx](https://github.com/gaowei1012/blog/issues/44)
 
 #### webpack 
-- [DllPlugin 优化编译代码](https://github.com/gaowei1012/blog/issues/67)
+ - [DllPlugin 优化编译代码](https://github.com/gaowei1012/blog/issues/67)
 
 #### React
  
@@ -43,8 +43,8 @@
   - [react useState](https://github.com/gaowei1012/blog/issues/77)
 
  #### reactnative
- - [自定义react-native顶部scrollview tab 切换菜单](https://github.com/gaowei1012/blog/issues/14)
- - [react native 中使用美洽客服](https://github.com/gaowei1012/blog/issues/15)
+  - [自定义react-native顶部scrollview tab 切换菜单](https://github.com/gaowei1012/blog/issues/14)
+  - [react native 中使用美洽客服](https://github.com/gaowei1012/blog/issues/15)
  - [react native 自定义进度条](https://github.com/gaowei1012/blog/issues/18)
  - [react native TextInput 封装](https://github.com/gaowei1012/blog/issues/19)
  - [react native 图片上传]()
