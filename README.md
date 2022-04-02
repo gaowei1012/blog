@@ -111,7 +111,7 @@
   - [古老的andularjs分页](https://github.com/gaowei1012/blog/issues/40)
   - [canvas绘制雪花下落效果](https://github.com/gaowei1012/blog/issues/62)
   - [前端自动化部署脚本](https://github.com/gaowei1012/blog/issues/79)
-  - [个人博客搭建总结](https://github.com/gaowei1012/blog/issues/82)
+  - [个人博客搭建总结](https://github.com/gaowei1012/blog/issues/82) 
   
  #### Css
   - [css3 遮罩动画](https://github.com/gaowei1012/blog/issues/63)
