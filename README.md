@@ -115,7 +115,7 @@
   - [前端自动化部署脚本](https://github.com/gaowei1012/blog/issues/79)
   - [个人博客搭建总结](https://github.com/gaowei1012/blog/issues/82) 
   
- #### Css
+ #### Css3折叠层样式
   - [css3 遮罩动画](https://github.com/gaowei1012/blog/issues/63)
 
  #### Python
