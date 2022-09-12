@@ -134,5 +134,5 @@
 
 #### 前端
 - [启文达脚手架开发定制](qwd-cli)
-- [mongoose 模糊查询]()
+- [mongoose 模糊查询](https://github.com/gaowei1012/blog/issues/96)
 
